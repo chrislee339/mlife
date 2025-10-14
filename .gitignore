@@ -5,3 +5,8 @@ __pycache__/
 .env.*
 *.egg-info/
 .ipynb_checkpoints/
+data/
+*.csv
+*.tsv
+*.parquet
+*.ipynb_checkpoints/
