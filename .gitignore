@@ -6,7 +6,6 @@ data/raw
 .env.*
 *.egg-info/
 .ipynb_checkpoints/
-data/
 *.tsv
 *.parquet
 *.ipynb_checkpoints/

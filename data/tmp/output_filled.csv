@@ -1,0 +1,100 @@
+Participant name,Participant ID,Group,Ftbt Uid,Logid,Logdate,Accesslevel,Amount,Brand,Calories,Foodid,Locale,Mealtypeid,Name,Carbs,Fat,Fiber,Protein,Sodium,serving_size_fill,per_fill,OFF_code,OFF_name,OFF_brands
+user user 2001,2001,mLife (control2),3QF85T,34294779449,06/21/2024,PUBLIC,1.0,Market Pantry,130,14743801,,1,Apple & Cinnamon Instant Oatmeal,27,1.5,3.01,3,0.16,1 PACKET (35 g),serving,0085239981771,Apples & Cinnamon Instant Oatmeal,Market Pantry
+user user 2001,2001,mLife (control2),3QF85T,34296117771,06/21/2024,PUBLIC,4.0,Morning Delight,-,692741948,,1,Cinnamon French Toast Sticks,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34286758834,06/20/2024,PUBLIC,1.25,Kellogg's,387,692140437,,1,Rice Krispies,86,1.2,2,7,0.4,,100g,5050083545139,Kellogg's Rice Krispies,Kellogg's
+user user 2001,2001,mLife (control2),3QF85T,34295119000,06/20/2024,PUBLIC,0.5,Harris Teeter,-,14744169,,3,Pear Slices in 100% Pear Juice,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34297529881,06/20/2024,PUBLIC,0.5,That's It,-,692815365,,3,Fruit Bar,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34286660217,06/19/2024,PUBLIC,0.25,DiGiorno,-,801046423,,5,Gluten Free Pepperoni Pizza,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34288382640,06/19/2024,PUBLIC,1.0,Outback Steakhouse,365,745857959,,5,Gold Coast Coconut Shrimp,41,17,0,12,0.65,100g,serving,89661603345683364956,"Outback Steakhouse, Gold Coast Coconut Shrimp, Small",Outback Steakhouse
+user user 2001,2001,mLife (control2),3QF85T,34286864226,06/19/2024,PUBLIC,2.0,Maxwell House,3,23911298,,1,Coffee,0,0,0,0,0,,100g,8711000522998,Maxwell House,Maxwell House
+user user 2001,2001,mLife (control2),3QF85T,34289600251,06/19/2024,PUBLIC,1.0,Pop-Tarts,-,14729843,,1,"Pop-Tarts Toaster Pastries, Wildlicious Frosted Wild Berry Flavor",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34284807236,06/19/2024,PUBLIC,1.0,Unknown,-,692830735,,3,Roll,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34287809150,06/19/2024,PUBLIC,1.0,Hilton Garden Inn,-,719020512,,3,Cutie Clementine,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34289492129,06/19/2024,PUBLIC,0.5,Harris Teeter,-,14744169,,3,Pear Slices in 100% Pear Juice,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34276780389,06/18/2024,PUBLIC,1.0,That's It,-,795200236,,1,Apples Plus Mangoes Fruit Bar,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34273969652,06/18/2024,PUBLIC,6.87,Landshire,-,692155932,,3,Ham & Swiss on a Pretzel Roll Sandwiches,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34275328025,06/18/2024,PUBLIC,12.0,Twin Springs Pecans,-,692825713,,3,Pecans,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34276371235,06/18/2024,PUBLIC,2.0,Healthy Choice,-,14661809,,5,Spaghetti and Meatballs,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34259373065,06/16/2024,PUBLIC,1.0,Outback Steakhouse,365,745857959,,5,Gold Coast Coconut Shrimp,41,17,0,12,0.65,100g,serving,89661603345683364956,"Outback Steakhouse, Gold Coast Coconut Shrimp, Small",Outback Steakhouse
+user user 2001,2001,mLife (control2),3QF85T,34262420877,06/16/2024,PUBLIC,1.0,Outback Steakhouse,421,719129117,,5,French Onion Soup,21,29,2,19,2.12,100g,serving,200015412402373334970963,"Outback Steakhouse, French Onion Soup",Outback Steakhouse
+user user 2001,2001,mLife (control2),3QF85T,34258277100,06/16/2024,PUBLIC,2.0,Maxwell House,3,23911298,,1,Coffee,0,0,0,0,0,,100g,8711000522998,Maxwell House,Maxwell House
+user user 2001,2001,mLife (control2),3QF85T,34259684036,06/16/2024,PUBLIC,0.66,Post,210,692768973,,1,Grape-Nuts,47,0.998,7.02,6,0.28,0.5 cup (58 g),serving,0884912105318,Grape-Nuts,"Post Foods  Llc, Post"
+user user 2001,2001,mLife (control2),3QF85T,34254946795,06/16/2024,PUBLIC,1.0,Bibigo,-,721623409,,3,"Bibimbap Beef, Korean Style",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34258180930,06/16/2024,PUBLIC,1.0,Daisy,110,806634362,,4,Cottage Cheese,4,5,0,13,0.39,1/2 cup (113 g),serving,0073420532406,4% Cottage Cheese,Daisy
+user user 2001,2001,mLife (control2),3QF85T,34258711718,06/16/2024,PUBLIC,1.0,Del Monte,60.16,14725555,,4,California Diced Peaches in Light Syrup,15.04,0,0.9,0,0.01,112.99999999999999g,serving,0024000034094,California Diced Peaches In Light Syrup,"Del Monte,  Del Monte Foods"
+user user 2001,2001,mLife (control2),3QF85T,34250160762,06/15/2024,PUBLIC,1.0,Frisch's Big Boy,-,766417873,,1,"Butter, 1 Tablespoon",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34253288014,06/15/2024,PUBLIC,4.0,Coombs Vermont Gourmet,-,692040738,,1,Maple Syup,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34253288017,06/15/2024,PUBLIC,2.0,Maxwell House,3,23911298,,1,Coffee,0,0,0,0,0,,100g,8711000522998,Maxwell House,Maxwell House
+user user 2001,2001,mLife (control2),3QF85T,34256621795,06/15/2024,PUBLIC,0.5,Bake Shop by Aldi,-,755479782,,4,"Granola Clusters, Grains",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34251373450,06/15/2024,PUBLIC,0.25,The Pasta House Co.,-,729127685,,5,"16"" Green Peppers & Onion Pizza",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,34251275368,06/15/2024,PUBLIC,17.0,PopCorners,-,806632624,,6,Spicy Queso Popped-Corn Snack,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32472874312,09/26/2023,PUBLIC,1.0,Quaker,210.000000001,692778029,,6,Oatmeal Squares,44,2.5,5,6.0000000005,0.19,1 cup (56 g),serving,0030000064030,Oatmeal Squares,Quaker
+user user 2001,2001,mLife (control2),3QF85T,32397089045,09/14/2023,PUBLIC,2.0,Maxwell House,3,23911298,,1,Coffee,0,0,0,0,0,,100g,8711000522998,Maxwell House,Maxwell House
+user user 2001,2001,mLife (control2),3QF85T,32398801558,09/14/2023,PUBLIC,1.0,Hormel,-,801711224,,1,Black Label Center Cut Bacon,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32398811341,09/14/2023,PUBLIC,1.0,Eat'n Park,-,730799347,,1,Over-Easy Egg (1),-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32399903892,09/14/2023,PUBLIC,0.5,Thomas',130,692818364,,1,English Muffin,25,1,0.5,4,0.37,1 muffin(s) (61 g),serving,0048121900663,English Muffin,Thomas'
+user user 2001,2001,mLife (control2),3QF85T,32400030578,09/14/2023,PUBLIC,1.0,Country Crock,50,14723619,,1,"Vegetable Oil Spread, Original",0,6,,0,0.1,1 Tbsp (14 g),serving,0027400103223,Country crock vegetable oil spread original,"Country Crock,  Unilever"
+user user 2001,2001,mLife (control2),3QF85T,32398842580,09/14/2023,PUBLIC,1.0,Thomas',130,692818364,,3,English Muffin,25,1,0.5,4,0.37,1 muffin(s) (61 g),serving,0048121900663,English Muffin,Thomas'
+user user 2001,2001,mLife (control2),3QF85T,32400129926,09/14/2023,PUBLIC,1.0,Tyson,200,14541113,,3,Chicken Patties,10,13,0,10,0.3,1 Piece (76 g),serving,0023700060518,Tyson Spicy Chicken Patties,Tyson
+user user 2001,2001,mLife (control2),3QF85T,32400189254,09/14/2023,PUBLIC,1.0,Hellmann's,102,23910169,,3,Mayonnaise,0.196,11.1,,0.154,0.084,14 g,serving,8711200426218,Hellmans mayonnaise,Hellmann's
+user user 2001,2001,mLife (control2),3QF85T,32396837823,09/13/2023,PUBLIC,1.0,V8,-,692832267,,1,"Low Sodium, Original 100% Vegetable Juice",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32396985309,09/13/2023,PUBLIC,2.0,Saverne,-,721554155,,1,Sriracha,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32398845370,09/13/2023,PUBLIC,1.0,Fresh to you,-,745174980,,1,Egg Cup,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32397693897,09/13/2023,PUBLIC,1.12,Marco's Pizza,-,737926919,,5,Spaghetti and Meatballs,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32400283204,09/13/2023,PUBLIC,1.0,Crumbl Cookies,-,795194859,,5,"Peanut Butter ft. Reese's Pieces Mini Cookie, Container",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32389878116,09/12/2023,PUBLIC,1.0,Hilton Garden Inn,-,719020512,,3,Cutie Clementine,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32389458927,09/12/2023,PUBLIC,1.0,Marco's Pizza,-,737926919,,5,Spaghetti and Meatballs,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32380958275,09/12/2023,PUBLIC,1.0,V8,-,692832267,,1,"Low Sodium, Original 100% Vegetable Juice",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32381214613,09/12/2023,PUBLIC,1.0,Fresh to you,-,745174980,,1,Egg Cup,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32383399428,09/12/2023,PUBLIC,2.0,Saverne,-,721554155,,1,Sriracha,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32109585524,08/01/2023,PUBLIC,1.0,Fresh to you,-,745174980,,1,Egg Cup,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32016414273,07/17/2023,PUBLIC,0.25,Spice World,-,692803250,,1,Crushed Red Pepper,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32017044178,07/17/2023,PUBLIC,1.0,PAM,-,692762822,,1,Oil Spray,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32017063845,07/17/2023,PUBLIC,0.25,Fairlife,-,744931387,,1,Skim Milk,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32017260742,07/17/2023,PUBLIC,2.0,Saverne,-,721554155,,1,Sriracha,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32017615049,07/17/2023,PUBLIC,1.0,Lifetime,-,14593777,,1,Fat Free Cheddar Cheese,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,32000622824,07/15/2023,PUBLIC,0.33,Laird Superfood,-,795201555,,1,Original Homemade Pancake & Waffle Mix,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31998378198,07/15/2023,PUBLIC,0.5,Fairlife,140,721618055,,1,2% Reduced Fat Milk,13,4.5,1,13,0.28,1 portion (240 ml),serving,0856312002825,Chocolate 2% Reduced Fat Milk,Fairlife
+user user 2001,2001,mLife (control2),3QF85T,31999126041,07/15/2023,PUBLIC,0.75,General Mills,-,692070835,,1,"Fiber One, Cereal, Bran",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31975146132,07/12/2023,PUBLIC,0.25,Fairlife,140,721618055,,1,2% Reduced Fat Milk,13,4.5,1,13,0.28,1 portion (240 ml),serving,0856312002825,Chocolate 2% Reduced Fat Milk,Fairlife
+user user 2001,2001,mLife (control2),3QF85T,31978305517,07/12/2023,PUBLIC,12.0,Community,-,776480197,,1,"Coffee, Hazelnut",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31978973786,07/12/2023,PUBLIC,2.0,Pace,4.96,798088955,,1,Medium Restaurant Style Salsa,1,0,0,0,0.21,2 Tbsp (31 g),serving,0087848065101,Medium restaurant style salsa,
+user user 2001,2001,mLife (control2),3QF85T,31979032254,07/12/2023,PUBLIC,0.25,Spice World,-,692803250,,1,Crushed Red Pepper,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31974663821,07/12/2023,PUBLIC,0.25,Mrs Dash,-,14733146,,1,"Southwest Chipotle Seasoning Blend, Salt-Free",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31975018205,07/12/2023,PUBLIC,1.0,PAM,-,692762822,,1,Oil Spray,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31975047855,07/12/2023,PUBLIC,0.12,Fairlife,-,744931387,,1,Skim Milk,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31959845253,07/11/2023,PUBLIC,1.0,PAM,-,692762822,,1,Oil Spray,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31963373893,07/11/2023,PUBLIC,0.25,Spice World,-,692803250,,1,Crushed Red Pepper,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31963776850,07/11/2023,PUBLIC,2.0,Pace,4.96,798088955,,1,Medium Restaurant Style Salsa,1,0,0,0,0.21,2 Tbsp (31 g),serving,0087848065101,Medium restaurant style salsa,
+user user 2001,2001,mLife (control2),3QF85T,31964552795,07/11/2023,PUBLIC,1.0,V8,-,692832267,,1,"Low Sodium, Original 100% Vegetable Juice",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31971589159,07/11/2023,PUBLIC,1.0,Green Giant,-,745859282,,5,"Harvest Protein Bowl, Southwest Style",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31962696722,07/11/2023,PUBLIC,6.0,Great Value,59.9,796247639,,1,"Premium Chunk Chicken Breast, in Water",0,1,0,12,0.23,2 ONZ (56 g),serving,0078742051659,Premium Chunk Chicken Breast In Water,Great Value
+user user 2001,2001,mLife (control2),3QF85T,31962755757,07/11/2023,PUBLIC,0.5,Hellmanns,269,14597895,,1,Light Mayonnaise,6.1,26,,0.5,6.688,1 portion (100 g),serving,0700502592132,hellmann’s light mayonnaise,hellmanns
+user user 2001,2001,mLife (control2),3QF85T,31960453817,07/11/2023,PUBLIC,1.0,Mrs Dash Marinades,-,14736026,,3,"Marinade, Garlic Herb",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31961968682,07/11/2023,PUBLIC,1.0,Nature's Own,110,23911753,,3,Whole Wheat,19.998,2,4,6,0.16,2 slices (45 g),serving,0072250043199,Nature's own whole wheat bread,Nature's Own
+user user 2001,2001,mLife (control2),3QF85T,31970349463,07/11/2023,PUBLIC,1.0,Quaker,210.000000001,692778029,,6,Oatmeal Squares,44,2.5,5,6.0000000005,0.19,1 cup (56 g),serving,0030000064030,Oatmeal Squares,Quaker
+user user 2001,2001,mLife (control2),3QF85T,31960305028,07/11/2023,PUBLIC,0.5,Fairlife,-,744931387,,1,Skim Milk,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31956269449,07/10/2023,PUBLIC,1.0,Quaker,160,14580249,,1,"Oatmeal, Instant, Apples & Cinnamon",33,2,4,4,0.16,1 Package (43 g) (43 g),serving,0030000316788,Quaker instant oatmeal apples and cinnamon,Quaker
+user user 2001,2001,mLife (control2),3QF85T,31956485759,07/10/2023,PUBLIC,0.16,Unknown,-,732886651,,1,Pecans,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31959228462,07/10/2023,PUBLIC,0.25,Only Oats,-,725735610,,1,Rolled Oats,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31956643261,07/10/2023,PUBLIC,2.0,Olive Garden Grocery,-,692758285,,3,"Dressing, Italian",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31962769853,07/10/2023,PUBLIC,0.5,Wendy's,513,14019865,,3,Spicy Chicken Sandwich,51,21,3,30,1.11,100g,serving,40348148953307071124,"Wendy's, Spicy Chicken Sandwich",Wendy's
+user user 2001,2001,mLife (control2),3QF85T,31956557969,07/10/2023,PUBLIC,0.5,Wendy's,-,14032381,,5,Fat Free French,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31962543618,07/10/2023,PUBLIC,15.0,Pringles,535.71428571429,790825632,,5,Wendy's Spicy Chicken,57.142857142857,32.142857142857,3.5714285714286,3.5714285714286,0.71428571428572,,100g,0038000249389,Wendy's Spicy Chicken Chips,Pringles
+user user 2001,2001,mLife (control2),3QF85T,31949004152,07/09/2023,PUBLIC,0.75,Fairlife,-,744931387,,1,Skim Milk,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31949407160,07/09/2023,PUBLIC,0.75,Cereality,-,549326517,,1,Oatmeal Squares,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31948257499,07/09/2023,PUBLIC,2.0,Pizza Pizza,-,782258553,,3,Fresh Homemade Supreme Pizza,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31949046705,07/09/2023,PUBLIC,1.0,Steak-umm,-,14693000,,5,Sliced Steaks Sandwich,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31949568170,07/09/2023,PUBLIC,1.0,Nardone Bros.,-,14662716,,5,Pizza,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31952095399,07/09/2023,PUBLIC,1.0,Unknown,-,692830735,,5,Roll,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31948781405,07/09/2023,PUBLIC,2.0,Newberry Gourmet Cupcakes,-,692751859,,6,"Cupcake, Red Velvet",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31944776424,07/08/2023,PUBLIC,1.0,Pringles,508,14719184,,1,"Potato Chips, Sour Cream & Onion",51,32,2.5,4.3,0.76,,100g,5050083917349,Pringles Xtra Kickin' Sour Cream & Onion,Pringles
+user user 2001,2001,mLife (control2),3QF85T,31948665878,07/08/2023,PUBLIC,0.33,Pearl milling company,-,791282539,,1,"Pancake & Waffle Mix, Original, Complete, Large Size",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31948833254,07/08/2023,PUBLIC,0.25,Uno Mas,-,800743396,,5,Margarita,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31941932963,07/07/2023,PUBLIC,2.1,Reese's,-,779043103,,3,Take 5,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31943379488,07/07/2023,PUBLIC,1.0,Pick up stix,-,692107675,,3,Firecracker Chicken,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31944258087,07/07/2023,PUBLIC,12.0,Taco Bell,-,748255946,,2,Yuengling - Lager (12 oz),-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31944002198,07/07/2023,PUBLIC,4.0,Pizza Corner,-,692767124,,4,Pizza,-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31944464579,07/07/2023,PUBLIC,1.0,Mars,,692174116,,4,Twix,,,,,,,100g,5000159561204,Minis mars Twix,Mars
+user user 2001,2001,mLife (control2),3QF85T,31943903885,07/07/2023,PUBLIC,2.5,Crystal Creamery,-,692042812,,6,"Ice Cream, Strawberry",-,-,-,-,-,,,,,
+user user 2001,2001,mLife (control2),3QF85T,31936655681,07/07/2023,PUBLIC,2.0,Eat'n Park,-,730799339,,1,Over-Easy Eggs (2),-,-,-,-,-,,,,,

@@ -1,0 +1,3 @@
+dataset,rows,participants,steps_non_na,steps_mean,steps_median,steps_max,pct_rows_minute_sum_1440
+ml_ready,20170,236,20170,5770.055280118989,5086.0,19954.0,82.91522062469014
+ml_ready_plus_840,62146,238,62143,6887.013662037559,6223.0,44409.0,26.91082290091076
